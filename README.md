@@ -1,5 +1,5 @@
 # SGDH_HDL_Bits
-https://www.youtube.com/aifpga
+https://www.youtube.com/@verilog
 
 설계독학 유튜브에서 다루고 있는 HDL Bits 문제풀이 답안입니다.
 
